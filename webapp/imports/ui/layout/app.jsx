@@ -1,11 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react'
+import Header from './header.jsx'
+import Footer from './footer.jsx'
 
 // App component - represents the whole app
 const App = () => (
   <div>
-  	first page
+    <Header />
+    <Footer />
   </div>
 )
 
-export default App;
-
+export default App
