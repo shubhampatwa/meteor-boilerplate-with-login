@@ -1,9 +1,9 @@
 import React from 'react'
 
 const Footer = () => (
-	<footer>
-		i'm footer
-	</footer>
+  <footer>
+    <p>i'm footer</p>
+  </footer>
 )
 
 export default Footer
